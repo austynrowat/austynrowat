@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @austynrowat
 - 👀 I’m interested in applying software to have impact the physcial world through embedded systems.
-- 🌱 I’m currently learning machine learning for a recommendation service on a project I am working on: https://thetender.ca/
 - 💞️ I’m looking to collaborate on anything in hardware projects requiring c++ development.
 - 📫 How to reach me: arowat710@gmail.com
